@@ -77,7 +77,7 @@ header.headerPage {
 
   @media (min-width: 992px) {
     header.headerPage {
-      height: 100vh;
+      height: 110vh;
       min-height: 40rem;
       padding-top: 4.5rem;
       padding-bottom: 0;
