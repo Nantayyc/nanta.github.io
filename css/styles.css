@@ -6,7 +6,8 @@
 .fontBrand{
   font-family: 'Josefin Sans', sans-serif;
   color: rgb(255, 94, 0);
-
+  font-size: 16px;
+  padding-right: 10%;
 }
 
 .fontMain1{
@@ -49,7 +50,7 @@
 .fontContact{
   font-family: 'Josefin Sans', sans-serif;
   font-weight: bolder;
-  font-size: 34px;
+  font-size: 32px;
 }
 .fontContactSub{
   font-family: 'Josefin Sans', sans-serif;
@@ -58,7 +59,7 @@
 }
 .fontContactSub .sub{
   color:rgb(249, 244, 228);
-  font-size: 20px;
+  font-size: 18px;
 }
 
 
