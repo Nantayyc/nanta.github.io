@@ -11,6 +11,15 @@
     background-size: cover;
     }
 
+    @media (min-width: 992px) {
+      body {
+        height: 110vh;
+        min-height: 40rem;
+        padding-top: 4.5rem;
+        
+      }
+    }
+
     .fontNav{
         font-family: 'Josefin Sans', sans-serif;
         font-size: x-large;
